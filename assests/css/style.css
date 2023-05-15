@@ -2,7 +2,7 @@ body {
     position: absolute;
     width: 1702px;
     height: 1437px;
-    background: #bd1616;
+    background-color: #bd1616;
 }
 
 footer {
@@ -10,7 +10,7 @@ footer {
     width: 1384px;
     height: 75px;
     background: #6E6E6E;
-    border: 1px solid #000000;
+    border: 1px solid #a20c0c;
     display: flex;
     align-items: center;
     text-align: center;
